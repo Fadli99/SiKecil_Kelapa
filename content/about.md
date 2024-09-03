@@ -1,5 +1,5 @@
 ---
-title: "Halo, Kassen Kyocera Menjual Berbagai Sparepart, Toner, dan Mesin Kyocera"
+title: "Halo, Si Kecil Kelapa Menjual Kelapa Parut dan Santan Kelapa"
 meta_title: "About"
 image: "/images/Kelapa_Parut.png"
 layout: "about"
