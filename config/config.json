@@ -1,0 +1,29 @@
+{
+  "site": {
+    "title": "Kassen Kyocera | Company Profile",
+    "base_url": "/",
+    "favicon": "/images/logo_kyocera.png",
+    "logo": "/images/Logo1.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Bookworm Light"
+  },
+
+  "settings": {
+    "pagination": 3,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2024 by Kassen Kyocera"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Next Boilerplate"
+  }
+}
