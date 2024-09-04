@@ -1,5 +1,5 @@
 ---
-title: "Halo, Si Kecil Kelapa Menjual Kelapa Parut dan Santan Kelapa"
+title: "Serat Kelapa Berkualitas, Cita Rasa Terbaik"
 meta_title: "About"
 image: "/images/Kelapa_Parut.png"
 layout: "about"
@@ -10,22 +10,18 @@ social:
   instagram: "https://www.instagram.com"
 ---
 
-TENTANG KASSEN KYOCERA
+SI KECIL KELAPA
 
+Selamat datang di Si Kecil Kelapa, brand yang menghadirkan kelezatan dan manfaat kelapa dalam setiap seratnya. Si Kecil Kelapa mengkhususkan diri dalam penyediaan kelapa parut berkualitas tinggi yang tidak hanya menyegarkan tetapi juga menambah cita rasa dan nilai gizi pada setiap masakan anda.
 
-Kassen Kyocera merupakan pelopor dalam menyediakan solusi pencetakan serbaguna yang menggabukan kualitas tinggi, teknologi terkini, dan kemudahan penggunaan untuk memenuhi kebutuhan bisnis perusahaan dan pribadi anda. Brand yang kami tawarkan yaitu printer merk Kyocera yang berasal dari JAPAN.
+Di Si Kecil Kelapa berkomitmen untuk menggunakan hanya kelapa segar yang di pilih secara teliti dari distributor kelapa lokal terbaik. Proses parut kami menggunakan mesin parut terbaik sehingga menghasilkan hasil parutan yang bersih dan segar. Setiap kelapa kami diproses dengan standar kebersihan dan kualitas yang terbaik dan menjamin kelapa parut dan santan kelapa yang lezat dan siap digunakan dalam berbagai resep, seperti kue-kue tradisional dan moderan, masakan padang, es cendol dan lain-lain.
 
-APA YANG KAMI TAWARKAN
+Mengapa Harus Memilih Si Kecil Kelapa?
 
-Kassen Kyocera mengkhususkan diri dalam [brand printer merk Kyocera, misalnya: "perangkat cetak, solusi pemrosesan dokumen, dan perangkat keras teknologi informasi"]. Produk kami dirancang dengan memadukan teknologi terbaru dengan desain yang ergonomis, memastikan kinerja optimal dan kenyamanan pengguna.
+- Kualitas Terjamin: Kami memastikan setiap kelapa yang kami gunakan segar , berkualitas tinggi dan juga bergizi.
+- Kemasan Praktis: Kelapa parut dan santan kami dikemas dengan rapi dan higienis sehingga mudah untuk disimpan didalam kulkas dan digunakan kapan saja.
+- Dukungan Petani Lokal: Kami mendukukung pertanian kelapa lokal, berkontribusi pada ekonomi komunitas dan memastikan keberlanjutan sumber bahan baku kami.
 
-KOMITMEN KAMI
-
-Kami berkomitmen untuk menyediakan produk berkualitas tinggi dan layanan pelanggan yang tak tertandingi. Melalui pendekatan yang berfokus pada pelanggan, kami berusaha untuk memahami dan memenuhi kebutuhan unik setiap klien kami, sambil menjaga standar etika dan keberlanjutan yang tinggi dalam setiap aspek operasi kami.
-
-TIM KAMI
-
-Tim kami terdiri dari para profesional yang berdedikasi dan berpengalaman di bidangnya masing-masing. Kami percaya bahwa keberhasilan kami terletak pada orang-orang yang membuatnya terjadi, dan kami berinvestasi dalam pengembangan profesional dan kesejahteraan mereka.
 
 HUBUNGI KAMI
 
