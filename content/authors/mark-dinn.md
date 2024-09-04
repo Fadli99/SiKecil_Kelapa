@@ -1,6 +1,6 @@
 ---
 title: Si Kecil Kelapa
-image: /images/authors/logo.jpeg
+image: /images/authors/Si-Kecil-Kelapa.png
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
