@@ -1,7 +1,7 @@
 ---
 title: "KELAPA PARUT MUDA"
 description: "meta description"
-date: 2024-09-05
+date: 2024-09-04
 image: "/images/posts/MK-470.png"
 categories: ["Kelapa Muda"]
 authors: ["FADLI"]
