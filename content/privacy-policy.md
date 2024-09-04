@@ -4,7 +4,7 @@ description: "this is meta description"
 draft: false
 ---
 
-Selamat datang di Kassen Kyocera, Kami berkomitmen untuk melindungi privasi Anda. Kebijakan privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda ketika Anda mengunjungi di situs web kami.
+Selamat datang di Si Kecil Kelapa, Kami berkomitmen untuk melindungi privasi Anda. Kebijakan privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda ketika Anda mengunjungi di situs web kami.
 
 #### Cara Kami Menggunakan Informasi Anda
 
@@ -28,6 +28,5 @@ Anda dapat mengatur browser Anda untuk menolak cookie, tetapi hal ini mungkin me
 #### Kontak Kami
 Jika Anda memiliki pertanyaan atau kekhawatiran mengenai kebijakan privasi ini, silakan hubungi kami di:
 
-Kassen Kyocera
-- Email: kassenkyocera@gmail.com
-- Telepon: 0852-1953-4120
+Si Kecil Kelapa
+- Whatsapp: 0813-1940-9577
