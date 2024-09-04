@@ -1,7 +1,7 @@
 ---
 title: "Si KECIL KELAPA"
 description: "meta description"
-date: 2024-09-04
+date: 2024-09-05
 image: "/images/posts/Kelapa.jpg"
 categories: ["Produk"]
 authors: ["FADLI"]
