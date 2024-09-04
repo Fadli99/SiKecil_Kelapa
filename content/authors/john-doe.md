@@ -1,5 +1,5 @@
 ---
-title: Cango
+title: FADLI
 image: /images/authors/john-doe.jpg
 description: this is meta description
 social:
@@ -7,4 +7,4 @@ social:
   instagram: https://www.instagram.com/
 ---
 
-Pembuat Website Kassen Kyocera
+Pembuat Website Si Kecil Kelapa
