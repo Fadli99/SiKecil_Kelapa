@@ -2,7 +2,7 @@
 title: "KELAPA PARUT MUDA"
 description: "meta description"
 date: 2024-09-04
-image: "/images/posts/MK-470.png"
+image: "/images/posts/Kelapa_Parut-Muda.png"
 categories: ["Kelapa Muda"]
 authors: ["FADLI"]
 tags: ["Kelapa Muda"]
