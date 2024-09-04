@@ -1,5 +1,5 @@
 ---
-title: Kassen Kyocera
+title: Si Kecil Kelapa
 image: /images/authors/logo.jpeg
 description: this is meta description
 social:
@@ -7,4 +7,4 @@ social:
   instagram: https://www.instagram.com/
 ---
 
-Nama Brand Toko Printer Kyocera
+Nama Brand Si Kecil Kelapa
