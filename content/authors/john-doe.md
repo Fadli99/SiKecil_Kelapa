@@ -1,6 +1,6 @@
 ---
 title: FADLI
-image: /images/authors/john-doe.jpg
+image: /images/author.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
