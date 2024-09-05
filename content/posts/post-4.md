@@ -1,7 +1,7 @@
 ---
 title: "SANTAN KELAPA"
 description: "meta description"
-image: "/images/posts/Santan.png"
+image: "/images/posts/Santan1.png"
 date: 2024-09-04
 draft: false
 authors: ["FADLI"]
