@@ -1,9 +1,7 @@
 ---
 title: "PARTNER"
-draft: false
----
-#### Heading example
----
 image: "/images/Logo1.png"
+image: "/images/logo.png"
+draft: false
 ---
 
