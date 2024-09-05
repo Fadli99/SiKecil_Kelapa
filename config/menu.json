@@ -20,10 +20,6 @@
         {
           "name": "Privacy Policy",
           "url": "/privacy-policy"
-        },
-        {
-          "name": "Partner",
-          "url": "/partners"
         }
       ]
     }
@@ -40,10 +36,6 @@
     {
       "name": "Privacy Policy",
       "url": "/privacy-policy"
-    },
-        {
-          "name": "Partner",
-          "url": "/partners"
-        }
+    }
   ]
 }
